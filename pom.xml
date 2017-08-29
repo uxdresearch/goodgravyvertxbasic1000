@@ -138,7 +138,7 @@
           <plugin>
             <groupId>io.fabric8</groupId>
             <artifactId>fabric8-maven-plugin</artifactId>
-            <version>3.5.17</version>
+            <version>3.5.22</version>
             <executions>
               <execution>
                 <id>fmp</id>
@@ -160,7 +160,7 @@
             <resources>
               <labels>
                 <all>
-                  <space>goodgravy</space>
+                  <space>brian</space>
                 </all>
               </labels>
             </resources>
